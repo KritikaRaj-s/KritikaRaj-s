@@ -9,6 +9,11 @@
 
 ## A little about me
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ai-calypse/avatar-studio/main/docs/examples/classic.gif" alt="Animated robot mascot" width="120" height="120" />
+  <br /><sub>Robotics, curiosity, and a little personality · <a href="https://github.com/ai-calypse/avatar-studio">Avatar Studio</a></sub>
+</p>
+
 Hi, I’m Kritika Raj! My skills span programming, robotics, and computer vision. I bring curiosity, creativity, and a collaborative approach to my coding journey.
 
 ```yaml
@@ -51,6 +56,14 @@ focus:
 | [✨ My first repository](https://github.com/KritikaRaj-s/demo_first) | Where my GitHub journey began. |
 
 ## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/pacman-output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/pacman-output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+<sub>My contributions, arcade-style · refreshed daily · powered by <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a></sub>
 
 You can follow my commits and contributions on my [contribution graph](https://github.com/KritikaRaj-s#overview).
 
