@@ -18,11 +18,18 @@ Hi, I’m Kritika Raj! My skills span programming, robotics, and computer vision
 
 ```yaml
 name: Kritika Raj
-username: KritikaRaj-s
+currently: Pursuing B.Tech. in CSE
+education:
+{
+  "2nd year at college"
+}
+University: JUET
 focus:
   - Robotics & computer vision
   - Python & C++
   - Learning through projects
+  
+hobbies: {"Drama","watching movies","writting"}
 ```
 
 ## Technical skills
