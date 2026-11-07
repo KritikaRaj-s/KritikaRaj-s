@@ -3,20 +3,44 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/kritika-raj-930b85385/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect with Kritika Raj on LinkedIn" /></a>
   <a href="https://github.com/KritikaRaj-s?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 </p>
 
-## A little about my GitHub
+## A little about me
 
-Welcome! This is where I share my projects and keep track of my coding journey.
+Hi, I’m Kritika Raj! My skills span programming, robotics, and computer vision. I bring curiosity, creativity, and a collaborative approach to my coding journey.
 
 ```yaml
+name: Kritika Raj
 username: KritikaRaj-s
-on_my_github:
-  - Sprig
-  - My first repository
-  - A livestock monitoring system fork
+focus:
+  - Robotics & computer vision
+  - Python & C++
+  - Learning through projects
 ```
+
+## Technical skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8" alt="C++" />
+  <img src="https://img.shields.io/badge/ROS%202-0f172a?style=for-the-badge&logo=ros&logoColor=38bdf8" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=38bdf8" alt="OpenCV" />
+</p>
+
+| Area | Skills |
+| :--- | :--- |
+| Programming | Python · C++ |
+| Robotics & vision | ROS 2 · OpenCV · Computer Vision · LEGO Mindstorms EV3 Programming |
+| Development tools | Linux / Ubuntu · Git & GitHub |
+| Web | Basic Web Development |
+
+## Beyond the code
+
+**Communication & teamwork** — Communication · Team Collaboration · Presentation Skills  
+**Creative thinking** — Creative Expression · Creativity  
+**Learning mindset** — Curiosity · Adaptability
 
 ## Around my repositories
 
