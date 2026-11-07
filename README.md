@@ -47,13 +47,6 @@ focus:
 **Creative thinking** — Creative Expression · Creativity  
 **Learning mindset** — Curiosity · Adaptability
 
-## Around my repositories
-
-| Repository | What's inside |
-| :--- | :--- |
-| [🌱 Sprig](https://github.com/KritikaRaj-s/Sprig) | A starting point for a campus-care project. |
-| [🛰️ Livestock Monitoring System](https://github.com/KritikaRaj-s/lms-rover) | A fork of [Uday-rai/lms-rover](https://github.com/Uday-rai/lms-rover), covering a rover, collar sensors, a data pipeline, ML, and a dashboard. |
-| [✨ My first repository](https://github.com/KritikaRaj-s/demo_first) | Where my GitHub journey began. |
 
 ## GitHub activity
 
