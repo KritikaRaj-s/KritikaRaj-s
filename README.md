@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=210&section=header&text=Hi,%20I'm%20Kritika&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub&descAlignY=72&descSize=18" alt="Hi, I'm Kritika — welcome to my GitHub" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hello+stranger%21+Welcome+to+my+little+corner+of+GitHub.&textBg=false&fontSize=28&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=+Learning%2C+experimenting%2C+making+mistakes+and+trying+again.&descSize=20&descAlign=50&descAlignY=59" alt="Hello stranger! Welcome to my little corner of GitHub. Learning, experimenting, making mistakes and trying again." width="100%" />
 </p>
 
 <p align="center">
