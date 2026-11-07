@@ -58,12 +58,12 @@ focus:
 ## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/pacman-output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/pacman-output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/pacman-output/pacman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/snake-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/snake-output/github-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/KritikaRaj-s/KritikaRaj-s/snake-output/github-snake.svg" width="100%" />
 </picture>
 
-<sub>My contributions, arcade-style · refreshed daily · powered by <a href="https://github.com/abozanona/pacman-contribution-graph">Pac-Man Contribution Graph</a></sub>
+<sub>Watch the snake eat my contributions · refreshed daily · powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
 You can follow my commits and contributions on my [contribution graph](https://github.com/KritikaRaj-s#overview).
 
